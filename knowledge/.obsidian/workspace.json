@@ -11,10 +11,14 @@
             "id": "5ee61d35c687a530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "inbox/architecture-pattern-toolkit/overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "overview"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "KNOTE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/architecture-pattern-toolkit/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/architecture-pattern-toolkit/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "inbox/event-storming/references.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,5 +188,42 @@
     }
   },
   "active": "5ee61d35c687a530",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "inbox/architecture-pattern-toolkit/index.md",
+    "inbox/architecture-pattern-toolkit/notes/Pattern Catalog.md",
+    "inbox/architecture-pattern-toolkit/notes/Quarantine Table and Reprocessing.md",
+    "inbox/architecture-pattern-toolkit/overview.md",
+    "inbox/architecture-pattern-toolkit/references.md",
+    "inbox/domain-discovery-toolkit/notes/Big Picture Event Storming.md",
+    "inbox/architecture-pattern-toolkit/notes/README.md",
+    "inbox/architecture-pattern-toolkit/notes",
+    "inbox/architecture-pattern-toolkit",
+    "inbox/domain-discovery-toolkit/notes/Tool Catalog.md",
+    "inbox/domain-discovery-toolkit/overview.md",
+    "inbox/domain-discovery-toolkit/notes/Domain Discovery Taxonomy.md",
+    "inbox/agent-workflows/notes/Taxonomy of Agent Workflow Methods.md",
+    "inbox/agent-workflows/notes/เครื่องมือจัดโครงสร้างการคิดสำหรับ-skills.md",
+    "inbox/event-storming/notes/ระดับของ Event Storming.md",
+    "inbox/agent-workflows/notes",
+    "inbox/agent-workflows/index.md",
+    "inbox/agent-workflows",
+    "notes/เครื่องมือจัดโครงสร้างการคิดสำหรับ-skills.md",
+    "inbox/event-storming/notes/How to design aggregate.md",
+    "templates/index.md",
+    "templates/knowledge/note.md",
+    "inbox/domain-discovery-toolkit/notes/README.md",
+    "inbox/event-storming/overview.md",
+    "Big Picture Event Storming.md",
+    "inbox/domain-discovery-toolkit/index.md",
+    "inbox/domain-discovery-toolkit/notes",
+    "inbox/event-storming/notes/README.md",
+    "inbox/domain-discovery-toolkit/references.md",
+    "notes/Untitled.md",
+    "notes/README.md",
+    "notes",
+    "inbox/domain-discovery-toolkit",
+    "templates/research",
+    "templates/knowledge",
+    "templates/docs"
+  ]
 }

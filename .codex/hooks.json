@@ -1,0 +1,18 @@
+{
+  "description": "ตรวจเอกสาร KNOTE หลัง agent แก้ไขไฟล์ใน repository",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash|apply_patch",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.codex/hooks/validate_knowledge.py\"",
+            "timeout": 30,
+            "statusMessage": "ตรวจตำแหน่งและสถานะเอกสารความรู้"
+          }
+        ]
+      }
+    ]
+  }
+}
